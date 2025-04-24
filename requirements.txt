@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+requests
+psutil
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+chromadb
+sentence-transformers
+plotly
+SpeechRecognition
+gtts
+pydub
+googletrans
